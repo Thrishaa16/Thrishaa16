@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thrisha MS</h1>
+<h1 align="center">Hi 👋, I'm Thrisha M S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thrishaa16" alt="thrishaa16" /></a> </p>
@@ -9,11 +9,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thrishaa16](https://github.com/Thrishaa16)
 
-- 💬 Ask me about **Js and Java**
+- 💬 Ask me about **JavaScript and Java**
 
 - 📫 How to reach me **thrish.ms@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
